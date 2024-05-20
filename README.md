@@ -49,7 +49,7 @@ You need to have node js installed. [For installation guide visit](https://nodej
 1. Clone the repository:
 
    ```bash
-   git clone <https://github.com/malachi43/social-api.git>
+   git clone <git@github.com:malachi43/nest-js-book-basic-CRUD-api.git>
    ```
 
 2. Switch to the repo folder
